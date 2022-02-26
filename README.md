@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lupeordonez
+- 👀 I’m interested in art. I love literature and music. I also like lenguages.
+- 🌱 I’m currently learning Js, Phyton, HTML and CSS.
+- 📫 How to reach me: lupe.orodnez.03@gmail.com. Instagram: @lupeordonez.
